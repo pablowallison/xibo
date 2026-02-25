@@ -1,4 +1,4 @@
-name: Deploy Xibo to Server
+name: Deploy Xibo to Digital Ocean Server
 
 on:
   push:
